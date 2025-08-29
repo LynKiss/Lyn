@@ -1,12 +1,12 @@
 Welcome to my profile. Thank you for stopping by. 🫰
 
 💻 Ngôn ngữ & Frontend
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![HTML5](https://img.shields.io/badge/Markup-HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
+![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
 
 🌐 Backend & Framework
-![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![NodeJS](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Framework-Express-black?logo=express)
 ![.NET](https://img.shields.io/badge/Framework-.NET-purple?logo=dotnet)
